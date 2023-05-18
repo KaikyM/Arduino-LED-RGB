@@ -13,6 +13,7 @@ In this experiment, you will make an RGB LED controlled by digital pins 11, 10, 
 
 ## Schematic Project
 ![image](https://github.com/KaikyM/Arduino-LED-RGB/assets/127446435/4dbe8fe6-91a4-4d6a-ba54-4fcf9675cca3)
+- [Click Here To see The Code](Arduino_Code.ino)
 
 ## Project in Tinkercad
 https://www.tinkercad.com/things/3uUQAoZ2jsx
